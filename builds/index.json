@@ -3614,13 +3614,14 @@
     "vayu": {
       "OS3.0.5.0.VMNCNXM": {
         "android_version": "15",
-        "build_time": "2026-05-27T19:29:19Z",
+        "build_time": "2026-05-28T09:43:08Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/jacksproject/FrameworkPatcher/releases/tag/build-tmp-26533580502",
-        "workflow_url": "https://github.com/jacksproject/FrameworkPatcher/actions/runs/26533580502",
+        "release_url": "https://github.com/jacksproject/FrameworkPatcher/releases/tag/build-tmp-26566990090",
+        "workflow_url": "https://github.com/jacksproject/FrameworkPatcher/actions/runs/26566990090",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
+          "disable_secure_flag",
           "add_gboard"
         ]
       }
@@ -3680,6 +3681,6 @@
       }
     }
   },
-  "last_updated": "2026-05-27T19:29:59Z",
+  "last_updated": "2026-05-28T09:43:47Z",
   "engine_version": "3.0.0"
 }
