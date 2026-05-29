@@ -22,7 +22,28 @@
       "workflow_run_id": "26566990090",
       "workflow_url": "https://github.com/jacksproject/FrameworkPatcher/actions/runs/26566990090",
       "release_url": "https://github.com/jacksproject/FrameworkPatcher/releases/tag/build-tmp-26566990090"
+    },
+    "OS3.0.6.0.VLACNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-29T19:52:49Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:518f6667155ce0429d7b86cbe00e9e2f4f3c78896e396e754ee0e39dedad0b82",
+        "services_patched.jar": "sha256:75646986af6261859edbabd12a3b7b8e56efae11037ca57ef50de92cbf55ffe8",
+        "miui-services_patched.jar": "sha256:89712ba94d56c0213af7e53def751c2e07c45ebe110e20579d5791fd26bcd0cb",
+        "miui-framework_patched.jar": "sha256:77668ec93f711376c0d8d099e90615ee0ff476510bd7f815d9b3e361787f3ecf",
+        "module_zip": "sha256:1cb832adeb5f3c14948b635db06d9cca7dd33d667ca0638633c959599990edce"
+      },
+      "workflow_run_id": "26658661513",
+      "workflow_url": "https://github.com/jacksproject/FrameworkPatcher/actions/runs/26658661513",
+      "release_url": "https://github.com/jacksproject/FrameworkPatcher/releases/tag/build-tmp-26658661513"
     }
   },
-  "last_updated": "2026-05-28T09:43:47Z"
+  "last_updated": "2026-05-29T19:53:32Z"
 }
