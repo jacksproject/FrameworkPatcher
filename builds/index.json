@@ -1418,10 +1418,10 @@
       },
       "OS2.0.204.0.VMTINXM": {
         "android_version": "15",
-        "build_time": "2026-05-06T07:09:20Z",
+        "build_time": "2026-06-19T11:46:12Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25421344498",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25421344498",
+        "release_url": "https://github.com/jacksproject/FrameworkPatcher/releases/tag/build-tmp-27823601620",
+        "workflow_url": "https://github.com/jacksproject/FrameworkPatcher/actions/runs/27823601620",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -3693,6 +3693,6 @@
       }
     }
   },
-  "last_updated": "2026-05-29T19:53:32Z",
+  "last_updated": "2026-06-19T11:46:55Z",
   "engine_version": "3.0.0"
 }
